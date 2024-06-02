@@ -26,4 +26,4 @@ The Hangman game is a classic word-guessing game where the player tries to guess
 
 1. **Clone the Repository**: Clone the repository using:
    ```sh
-   git clone https://github.com/your-username/hangman-game.git
+   git clone git@github.com:ravi0py/Hangman.git
